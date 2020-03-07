@@ -4,7 +4,7 @@ class Arr
 {
     /**
      * 对于内容相同顺序不同的算作相同的数据
-     * 支持字符串以逗号隔开
+     * 支持字符串数据以逗号隔开
      * 例如 '1,2,3'，'2,3,1'
      * @param $list
      * @param string $separator
